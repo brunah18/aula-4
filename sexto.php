@@ -7,7 +7,7 @@ function exibir($parametro){ //variável como parâmetro
 	return $parametro;
 }
 
-echo "Estamos em " .$ano. " e daqui a 4 anos estaremos em".exibir($ano);
+echo "Estamos em " .$ano. " e daqui a 4 anos estaremos em". exibir ($ano);
 
 
 
